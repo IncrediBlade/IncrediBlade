@@ -2,7 +2,7 @@
 <h3 align="center">💻 Junior Computer Engineer | AI/ML Enthusiast | Python Prodigy 🧠</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevJadhav&label=Profile%20views&color=0e75b6&style=flat" alt="DevJadhav" />
+  <img src="https://komarev.com/ghpvc/?username=IncrediBlade&label=Profile%20views&color=0e75b6&style=flat" alt="DevJadhav" />
   <a href="https://www.linkedin.com/in/dev-jadhav-115917356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dev%20Jadhav-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
