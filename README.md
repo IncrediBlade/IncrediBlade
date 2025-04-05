@@ -57,15 +57,15 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevJadhav&show_icons=true&theme=tokyonight" alt="DevJadhav Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IncrediBlade&show_icons=true&theme=tokyonight" alt="IncrediBlade Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJadhav&theme=tokyonight" alt="DevJadhav Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IncrediBlade&theme=tokyonight" alt="IncrediBlade Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJadhav&layout=compact&theme=tokyonight" alt="DevJadhav Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncrediBlade&layout=compact&theme=tokyonight" alt="IncrediBlade Top Languages" />
 </p>
 
 ---
